@@ -1,0 +1,1 @@
+console.log("Web de Sicilia Italy RP cargada correctamente");
